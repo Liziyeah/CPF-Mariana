@@ -1,0 +1,1 @@
+import Vinil from "./Vinil.ts/vinil";
